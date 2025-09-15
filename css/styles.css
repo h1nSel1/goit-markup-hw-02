@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #fff;
     color: #434455;
 }
@@ -13,18 +13,17 @@ ul {
 }
 
 .nav-style .logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;  
-    letter-spacing: 0.03em;
+    font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
-    color: #4D5AE5;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
 }
 
 .nav-style .logo .logo-color {
-    color: #2E2F42;
-
+    color: #2e2f42;
 }
 
 .nav-style .nav-menu .nav-menu-link {
@@ -34,7 +33,6 @@ ul {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 
 .nav-style .nav-menu .nav-menu-link:hover,
 .nav-style .nav-menu .nav-menu-link:focus {
