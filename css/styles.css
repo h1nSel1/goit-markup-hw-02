@@ -13,7 +13,7 @@ ul {
 }
 
 .nav-style .logo {
-    font-style: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -56,7 +56,7 @@ ul {
 
 .contacts .contacts-style .mail-style:hover,
 .contacts .contacts-style .mail-style:focus {
-    color: #2533cc;
+    color: #404bbf;
 }
 
 .title {
@@ -74,7 +74,7 @@ ul {
 }
 
 .title .service {
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     color: #ffff;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -86,7 +86,7 @@ ul {
 
 .title .service:hover,
 .title .service:focus {
-    background-color: #4D5AE5;
+    background-color: #404BBF;
 }
 
 .strategy .strategy-title {
@@ -143,7 +143,15 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.portfolio .team-title {
+    color: #2e2f42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+}
 .portfolio .team-section {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -167,11 +175,11 @@ ul {
 }
 
 .footer .logo {
-    font-family: "Raweley", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.1666;
-    letter-spacing: 0.03;
+    line-height: 1.77;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
 }
