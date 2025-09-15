@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
-    color: #2E2F42
+    color: #434455;
 }
 
 a {
@@ -13,10 +13,10 @@ ul {
 }
 
 .nav-style .logo {
-    font-style: "Ralewey", sans-serif;
+    font-style: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.3125;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -24,6 +24,7 @@ ul {
 
 .nav-style .logo .logo-color {
     color: #2E2F42;
+
 }
 
 .nav-style .nav-menu .nav-menu-link {
@@ -32,12 +33,12 @@ ul {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2c2424;
+    color: #2e2f42;
 }
 
 .nav-style .nav-menu .nav-menu-link:hover,
 .nav-style .nav-menu .nav-menu-link:focus {
-    color: #2533cc;
+    color: #404bbf;
 }
 
 .contacts {
@@ -73,13 +74,14 @@ ul {
 }
 
 .title .service {
-    background-color: #4D5AE5;
+    background-color: #404BBF;
     color: #ffff;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 .title .service:hover,
@@ -92,7 +94,7 @@ ul {
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1, 2;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -112,7 +114,7 @@ ul {
 .team .team-title {
     font-family: "Roboto", sans-serif;
     font-size: 36px;
-    line-height: 1.111;
+    line-height: 1.11;
     font-weight: 700;
     letter-spacing: 0.02em;
     text-align: center;
@@ -135,10 +137,11 @@ ul {
 
 .team .team-text {
     font-family: "Roboto", sans-serif;
+    color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
 }
 
 .portfolio .team-section {
