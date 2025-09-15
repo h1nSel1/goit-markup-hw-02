@@ -72,7 +72,7 @@ ul {
     text-align: center;
 }
 
-.title .button {
+.title .service {
     background-color: #4D5AE5;
     color: #ffff;
     font-family: "Roboto", sans-serif;
@@ -82,8 +82,8 @@ ul {
     letter-spacing: 0.04em;
 }
 
-.title .button:hover,
-.title .button:focus {
+.title .service:hover,
+.title .service:focus {
     background-color: #4D5AE5;
 }
 
