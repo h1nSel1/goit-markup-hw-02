@@ -16,7 +16,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.17;  
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -28,13 +28,13 @@ ul {
 }
 
 .nav-style .nav-menu .nav-menu-link {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
     font-size: 16px;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 
 .nav-style .nav-menu .nav-menu-link:hover,
 .nav-style .nav-menu .nav-menu-link:focus {
@@ -46,9 +46,8 @@ ul {
 }
 
 .contacts .contacts-style .mail-style {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
     font-size: 16px;
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -64,8 +63,7 @@ ul {
 }
 
 .title .page-title {
-    color: #ffff;
-    font-family: "Roboto", sans-serif;
+    color: #fff;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -147,7 +145,7 @@ ul {
     color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -178,7 +176,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.77;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -193,6 +191,6 @@ ul {
     font-weight: 400;
     font-size: 16;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #F4F4FD;
 }
