@@ -26,6 +26,7 @@ ul {
     color: #2e2f42;
 }
 
+.contacts .contacts-style .mail-style,
 .nav-style .nav-menu .nav-menu-link {
     font-size: 16px;
     font-weight: 500;
@@ -44,10 +45,7 @@ ul {
 }
 
 .contacts .contacts-style .mail-style {
-    font-size: 16px;
     font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
     color: #434455;
 }
 
